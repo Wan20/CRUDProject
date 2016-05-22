@@ -1,0 +1,5 @@
+c:\users\wan\documents\visual studio 2012\Projects\CRUDProject\CRUDProject\bin\CRUDProject.dll
+c:\users\wan\documents\visual studio 2012\Projects\CRUDProject\CRUDProject\bin\CRUDProject.pdb
+c:\users\wan\documents\visual studio 2012\Projects\CRUDProject\CRUDProject\obj\Debug\CRUDProject.csprojResolveAssemblyReference.cache
+c:\users\wan\documents\visual studio 2012\Projects\CRUDProject\CRUDProject\obj\Debug\CRUDProject.dll
+c:\users\wan\documents\visual studio 2012\Projects\CRUDProject\CRUDProject\obj\Debug\CRUDProject.pdb
